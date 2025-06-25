@@ -46,7 +46,7 @@ To identify suspicious activity and potential attacks from server logs using Spl
 
 ## 📄 Full Report
 
-Read the detailed task report here: [`task2_report.pdf`](task2final.pdf)
+Read the detailed task report here: [`task2_report.pdf`](task2.pdf)
 
 ---
 
